@@ -1,0 +1,42 @@
+header{
+    text-align: center;
+    
+}
+h1{
+    color: lime;
+}
+nav{
+    background-color: lime;
+}
+.contenitore{
+    width: 70%;
+    margin: 0 auto;
+}
+.orange{
+    background-color: orange;
+    height: 25px;
+    border-radius: 5px;
+    width: 300px;
+}
+.lime{
+    background-color: lime;
+    
+    height: 25px;
+    border-radius: 5px;
+    width: 500px;
+}
+
+.red{
+    background-color: red;
+    
+    height: 25px;
+    border-radius: 5px;
+    width: 100px;
+}
+body{
+    background-image:url(background.jpg);
+    background-size: cover;
+}
+img{
+    width: 200px;
+}
